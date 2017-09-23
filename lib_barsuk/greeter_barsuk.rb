@@ -14,3 +14,7 @@ end
 class Student
   //some code
 end
+
+class Worker
+  //some code
+end
