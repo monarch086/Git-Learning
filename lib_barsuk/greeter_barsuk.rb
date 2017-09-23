@@ -10,3 +10,7 @@ end
 class Person
   //some code
 end
+
+class Student
+  //some code
+end
