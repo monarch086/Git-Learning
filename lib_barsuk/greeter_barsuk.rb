@@ -18,3 +18,7 @@ end
 class Worker
   //some code
 end
+
+class Teacher
+  //some code
+end
